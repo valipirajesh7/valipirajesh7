@@ -1,7 +1,4 @@
-# 👋 Hi there, I'm Raj!
-
 I'm a passionate full-stack developer who loves building real-world applications and learning new technologies.
-
 ## 🚀 About Me
 - 🔭 Currently working on a **car travel booking website** and a **Gen Z career research project**
 - 🌱 Learning more about **backend performance optimization** and **React best practices**
